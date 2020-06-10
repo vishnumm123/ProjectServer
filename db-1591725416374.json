@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$Cu7eawybn/EPB6I5PA41bu7lveIdFYx5AI2GPWOGseWPM.FqBFS.q",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "vishnu@gmail.com",
+      "password": "$2a$10$m3mghKapIRX.nwD.qPvwJOSTqzcVuLKlgYQtbPBhofSUMSPYR5DIq",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 2
+    },
+    {
+      "email": "vishnu123@gmail.com",
+      "password": "$2a$10$6/EurosrTTLByDIUhOhjA.GBTMh1RbTOUhBYMRHKhf/KUXmc3ArZq",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 3
+    },
+    {
+      "email": "vishnu1234@gmail.com",
+      "password": "$2a$10$.Hxj.0roP7NPtOqD8xFmu.sJwur6wEs29iUPGdTANRbAJQ2m/2zri",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 4
+    },
+    {
+      "email": "vishnu12345@gmail.com",
+      "password": "$2a$10$jDkj98eQg4Ec8O3ACDX1V.OuAiZt.DuPt6YeSubhx4YDXK82O1MMe",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 5
+    },
+    {
+      "email": "vishnu123456@gmail.com",
+      "password": "$2a$10$SHdp0euqqTvVYJWecWgBiuixUr65l5YyIeRGwWr9ypaIeKBFlpdNe",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 6
+    },
+    {
+      "email": "vishnu1234567@gmail.com",
+      "password": "$2a$10$l4hPRMflfOAR7raFHgPIN.We6YGg0z7CIXKTx4tLU8o65hVTqWM/u",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 7
+    },
+    {
+      "email": "vishnumm@gmail.com",
+      "password": "$2a$10$By/y1S8wrfMvidwbdfblXuyp/dIiPrZFv.d1iKipKbyPOd/TyZSDi",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 8
+    },
+    {
+      "email": "vishnumm16@gmail.com",
+      "password": "$2a$10$yqdasRTnKCneciDMsf.u.efU/uAwCun4/AUXNSwvonPYm9DryqQYi",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": 23,
+      "id": 9
+    },
+    {
+      "email": "mmvishnucalicut@gmail.com",
+      "password": "$2a$10$pgPtqv8JEPe9NTRPmS09SeMfx24P/0VwOVqg12lIq0AP0jfPxEBMG",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": "23",
+      "id": 10
+    },
+    {
+      "email": "seller@gmail.com",
+      "password": "$2a$10$zM4OV6oy2XVliIXTVfyzi.QTR7hT.euXWkmMgxphVHfnmsYLuol.K",
+      "firstname": "Seller",
+      "lastname": "SS",
+      "age": 23,
+      "id": 11
+    },
+    {
+      "email": "seller11@gmail.com",
+      "password": "$2a$10$RXqIheP0/E5nkhiFlTVZv.V/0XPdCcX.ZJZVPw9FS8Bg4zFnHwRU6",
+      "firstname": "Seller",
+      "lastname": "SS",
+      "age": 23,
+      "role": "seller",
+      "id": 12
+    },
+    {
+      "email": "vinu@gmail.com",
+      "password": "$2a$10$l2.uwbgYc4XazZFM8aQjl.Ehpvu/EB71Km6aucYjRnSvA9OpAeEza",
+      "firstname": "Vinayak",
+      "lastname": "MM",
+      "age": "18",
+      "role": "buyer",
+      "id": 13
+    },
+    {
+      "email": "seller22@gmail.com",
+      "password": "$2a$10$bk5w79AhhiofBFUPdqLmeufC5dGFevz0LVgfCGbVv7zMEE8imlHTO",
+      "firstname": "Seller22",
+      "lastname": "22",
+      "age": "30",
+      "role": "seller",
+      "id": 14
+    }
+  ],
+  "seller": [
+    {
+      "email": "seller@gmail.com",
+      "password": "seller",
+      "firstname": "Seller",
+      "lastname": "SS",
+      "age": 23,
+      "id": 1
+    },
+    {
+      "email": "seller22@gmail.com",
+      "password": "1234546",
+      "firstname": "Seller22",
+      "lastname": "22",
+      "age": "30",
+      "role": "seller",
+      "id": 2
+    },
+    {
+      "email": "seller222@gmail.com",
+      "password": "123456",
+      "firstname": "Seller222",
+      "lastname": "222",
+      "age": "31",
+      "role": "seller",
+      "id": 3
+    }
+  ],
+  "signup": []
+}

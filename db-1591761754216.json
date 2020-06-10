@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "mmvishnucalicut@gmail.com",
+      "password": "$2a$10$8wz4UObjEguJFrxJqKySEeGyRpvKJxOuK7uxDeeVoZeBwQ/1Wbdku",
+      "firstname": "Vishnu",
+      "lastname": "MM",
+      "age": "23",
+      "role": "buyer",
+      "id": 1
+    },
+    {
+      "email": "seller22@gmail.com",
+      "password": "$2a$10$nN2CE2fVMTM/6hEcjAUK6.kBijU95EPrVax1OCijW7Na2kSrdgmya",
+      "firstname": "Seller1",
+      "lastname": "22",
+      "age": "30",
+      "role": "seller",
+      "id": 2
+    }
+  ]
+}
